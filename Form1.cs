@@ -35,7 +35,7 @@ namespace _1_na_visual_v_git
                 }
                 else
                 {
-                    xPos = 400;
+                    xPos = 250;
                 }
                 points[i] = new Point(xPos, 10 * i);
             }
